@@ -1,3 +1,19 @@
+
+body {
+  font-family: 'BlinkMacSystemFont','segoe ui','Roboto';
+  background-color: #000;
+  color: rgb(177, 184, 192);
+}
+
+a {
+  color: rgb(177, 184, 192);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(177, 184, 192);
+}
+
 .App {
   text-align: center;
 }
